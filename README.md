@@ -33,7 +33,11 @@ Bu uygulama, kullanıcıların menüdeki yemekleri görüntülemesini, yemekleri
    ```bash
    json-server --watch data/db.json
    ```
-
+4. Gerekli Ek Kütüphanelerin Yüklenmesi:
+   ```bash
+   npm install vuetify
+   npm install vue-carousel
+   ```
 
 ## Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen bir pull request göndermeden önce issue oluşturun ve önerilerinizi paylaşın.
