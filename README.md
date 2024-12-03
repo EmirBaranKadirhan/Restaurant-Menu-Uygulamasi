@@ -43,24 +43,4 @@ Bu uygulama, kullanıcıların menüdeki yemekleri görüntülemesini, yemekleri
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen bir pull request göndermeden önce issue oluşturun ve önerilerinizi paylaşın.
 
 
-=======
-# restaurant-menu-project
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> df38be7 (init)
