@@ -68,6 +68,7 @@ export default {
   cursor: pointer;
   border-radius: 8px;
   transition: background-color 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .productItem:hover {

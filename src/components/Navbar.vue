@@ -75,6 +75,7 @@ export default {
     min-height: 250px;
     height: auto;
     transition: transform 0.3s ease-in-out;
+
 }
 
   /* Slider Ogeleri Uzerine Gelindiginde Renk Degissin */
@@ -102,7 +103,7 @@ export default {
     padding: 2px 5px;
     margin: 0px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    letter-spacing: 1px;
+    letter-spacing: 1px !important;
 }
 
 .category-image {
